@@ -1,6 +1,0 @@
-streamlit
-numpy
-opencv-python-headless
-joblib
-pillow
-scikit-learn
